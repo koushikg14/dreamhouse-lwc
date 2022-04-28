@@ -43,18 +43,6 @@
                 <behavior>Edit</behavior>
                 <field>NumberOfEmployees</field>
             </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>testPMT__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>testPMT1__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>testPMTPrash__c</field>
-            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
@@ -188,8 +176,8 @@
                 <customLink>Billing</customLink>
             </layoutItems>
         </layoutColumns>
-        <layoutColumns/>
-        <layoutColumns/>
+        <layoutColumns />
+        <layoutColumns />
         <style>CustomLinks</style>
     </layoutSections>
     <platformActionList>
@@ -436,10 +424,6 @@
         <fields>OPPORTUNITY.NAME</fields>
         <fields>PARTNER.ROLE</fields>
         <relatedList>RelatedPartnerList</relatedList>
-    </relatedLists>
-    <relatedLists>
-        <fields>NAME</fields>
-        <relatedList>Energy_Audit__c.Account__c</relatedList>
     </relatedLists>
     <relatedObjects>ParentId</relatedObjects>
     <showEmailCheckbox>false</showEmailCheckbox>

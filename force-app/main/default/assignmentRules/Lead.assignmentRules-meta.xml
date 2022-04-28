@@ -4,7 +4,7 @@
         <fullName>Standard</fullName>
         <active>true</active>
         <ruleEntry>
-            <assignedTo>koushik8118@autorabit.com</assignedTo>
+            <assignedTo>ee17b125@smail.iitm.ac.in</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Lead.Country</field>
@@ -13,7 +13,7 @@
             </criteriaItems>
         </ruleEntry>
         <ruleEntry>
-            <assignedTo>koushik8118@autorabit.com</assignedTo>
+            <assignedTo>ee17b125@smail.iitm.ac.in</assignedTo>
             <assignedToType>User</assignedToType>
             <criteriaItems>
                 <field>Lead.Country</field>
